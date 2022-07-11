@@ -1,0 +1,87 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Data Science Intern",
+      "keywords": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "eye for details"
+      ],
+      "description": "Telesign  Belgrade, Serbia  Work with data analysts and data scientists in oreder to collect, store, clean and filter data in accordance with the business's data needs and priorities.",
+      "experience": "0 years"
+    },
+    {
+      "id": "2",
+      "title": "Software Engineer - Java",
+      "keywords": [
+        "Java EE",
+        "Spring framework",
+        "OOP",
+        "cloud services"
+      ],
+      "description": "Bosch Srbija  Belgrade, Serbia  You will develop clean, modular and reusable code. You will review code and project deliverables and confirm that they are of hihg quality. You will collaborate with team members and customer in designing and implementing integrated, entreprise solutions",
+      "experience": "3+ years"
+    },
+    {
+      "id": "3",
+      "title": "Senior Software Engineer",
+      "keywords": [
+        "AWS",
+        "HTML",
+        "Jira",
+        "JavaScript",
+        "PostgreSQL"
+      ],
+      "description": "A1 Srbija d.o.o  Belgrade, Serbia  As a Senior Software Engineer, you'll be responsible for delivering the code, based on defined requirements and planned timelines. It's a remote position with flexible working hours",
+      "experience": "7+ years"
+    },
+    {
+      "id": "4",
+      "title": "Communications Specialist",
+      "keywords": [
+        "AWS",
+        "HTML",
+        "Jira",
+        "JavaScript",
+        "PostgreSQL"
+      ],
+      "description": "ManpowerGroup Serbia Krusevac, Serbia  As a Communications Specialist you will be creating communications channels, and developing and executing communication plans. Also, proactively building relationships, influencing at different levels of the organization and working with formal and informal organization structures.",
+      "experience": "7+ years"
+    },
+    {
+      "id": "5",
+      "title": "Junior Data Analyst",
+      "keywords": [
+        "OCR systems",
+        "data",
+        "ML",
+        "attention to detail"
+      ],
+      "description": "Incode Technologies Belgrade, Serbia  - Direct interaction with Machine Learning systems and OCR processing of international IDs and other types of documents. You will contribute and work with information systems on multimedia archives, organize data and review thresholds for Machine Learning.",
+      "experience": "2+ years"
+    },
+    {
+      "title": "Business Analyst",
+      "keywords": [
+        "Fintech",
+        "Jira",
+        "Finance"
+      ],
+      "description": "Center for investments and Finance  Belgrade, Serbia  As a business analyst you will help us with internal managerial reporting, project management presentations, due diligence analysis. The ideal candidate should have a strong business background and interest in Fintech ad IT industries.",
+      "experience": "1+ years",
+      "id": "M_PltjK"
+    },
+    {
+      "title": "Java",
+      "keywords": [
+        "java",
+        "php"
+      ],
+      "description": "nvsvjsgv",
+      "experience": "2 years",
+      "id": "DShFYk0"
+    }
+  ]
+}
